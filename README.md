@@ -1,11 +1,11 @@
 # ServiHUB
 
-Aplicação web voltada à gestão de pequenos prestadores de serviços.
+Aplicação web voltada à gestão rotineira de pequenos prestadores de serviços.
 
 ## Integrantes
-- Breno Masiesque
-- Felipe Bianco Gaya dos Santos
-- João Victor Pensado
-- Samuel Henrique do Nascimento Pereira
-- Thiago Viel Denadai
-- Vinícius Logatto Costa Sete
+- Breno Masiesque - 25020087
+- Felipe Bianco Gaya dos Santos - 25008962
+- João Victor Pensado - 25008630
+- Samuel Henrique do Nascimento Pereira - 25005896
+- Thiago Viel Denadai - 25004361
+- Vinícius Logatto Costa Sete - 25003510
